@@ -1,9 +1,10 @@
-# Aprendiendo Angular
+# Aprendiendo Angular 🚀
 
 Primer proyecto `angular`
 
+## Items
 
 
-## Autor
+### Autor
 
 Jonathan `Stiven` Guayazán `cortés`
